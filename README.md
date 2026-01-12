@@ -43,6 +43,8 @@ BMI = Weight (kg) / [Height (m)]²
 
 ---
 
-## 👤 Author
-**Mohammad Zakariya**  
-B.Tech – Electronics & Communication Engineering  
+## 👨‍💻 Author
+
+Mohammad Zakariya
+B.Tech – Electronics & Communication Engineering
+Embedded Systems | Arduino | IoT | Control Systems
